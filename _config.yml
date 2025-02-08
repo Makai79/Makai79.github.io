@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : 
+title                    : "Main Page"
 title_separator          : "-"
 name                     : &name "Eric Morley"
 description              : &description "Machine Learning Student at Virginia Tech"
