@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Eric Morley Website"
+title                    : 
 title_separator          : "-"
 name                     : &name "Eric Morley"
 description              : &description "Machine Learning Student at Virginia Tech"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Virginia Tech Undergrad"
   location         : "Earth"
-  employer         : "Virginia Polytechnic Institute and State University"
+  employer         : "Virginia Tech"
   uri              : # URL
   email            : "ericrobmorley@gmail.com" 
 
